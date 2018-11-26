@@ -17,7 +17,7 @@ body{margin:0px;padding:0px;overflow-x: hidden;}
 
 .slider{overflow:hidden;width:800px;height:140px;background-color:#fbfbfd;margin-left:auto;margin-right:auto;float:left}
 .slider ul{width:10000px;height:140px}
-.slider ul li{float:left;list-style:none;width:372px;height:140px;font-size: 11pt;}
+.slider ul li{float:left;list-style:none;width:372px;height:140px;font-size: 15pt;}
 
 </style>
 
