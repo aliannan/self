@@ -22,7 +22,7 @@ body{margin:0px;padding:0px;overflow-x: hidden;}
 </style>
 
 <script>
-
+var myvar='';
 var qrystring='';
 
     $(document).on('click', '.item', function(){
